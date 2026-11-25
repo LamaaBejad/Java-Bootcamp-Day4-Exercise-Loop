@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="42c1cb8c-3c2f-42ce-a53a-d146a74b2c82" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise-Loop.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,12 +18,74 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="7" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000005053745" />
+      <entry key="MS500" value="1.0219140507912876" />
+      <entry key="S2" value="1.3847518050402157" />
+      <entry key="S5" value="1.6824522450514265" />
+      <entry key="S10" value="1.826156460151276" />
+      <entry key="S30" value="2.0608446131288263" />
+      <entry key="S60" value="3.0792918411463286" />
+      <entry key="M2" value="6.217516593933686" />
+      <entry key="M5" value="13.656099097930877" />
+      <entry key="M10" value="22.53082046556693" />
+      <entry key="M15" value="30.64168882911383" />
+      <entry key="M30" value="48.3397062715044" />
+      <entry key="H1" value="65.08704008651263" />
+      <entry key="H2" value="76.92016542189609" />
+      <entry key="H4" value="83.99887529556769" />
+      <entry key="D1" value="90.59707452889076" />
+      <entry key="W1" value="91.79780776107013" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.0609706372091875E-92" />
+      <entry key="S2" value="1.0149060495589163E-23" />
+      <entry key="S5" value="6.347533543793694E-10" />
+      <entry key="S10" value="2.5499068621887606E-5" />
+      <entry key="S30" value="0.04242548218131955" />
+      <entry key="S60" value="0.3720935111795812" />
+      <entry key="M2" value="1.246389075393659" />
+      <entry key="M5" value="2.919937232390036" />
+      <entry key="M10" value="4.925402103333374" />
+      <entry key="M15" value="6.643004772635815" />
+      <entry key="M30" value="9.971459251412664" />
+      <entry key="H1" value="12.804632086567137" />
+      <entry key="H2" value="14.691997849308938" />
+      <entry key="H4" value="15.787275955856247" />
+      <entry key="D1" value="16.789137350117894" />
+      <entry key="W1" value="16.969654551704497" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="7.974982008109548E-8" />
+      <entry key="MS500" value="0.04304843969979764" />
+      <entry key="S2" value="0.7075656939640287" />
+      <entry key="S5" value="1.309862508690029" />
+      <entry key="S10" value="1.6165509862778507" />
+      <entry key="S30" value="2.0218700944519434" />
+      <entry key="S60" value="3.380253387313052" />
+      <entry key="M2" value="7.381041301281638" />
+      <entry key="M5" value="16.50158738623388" />
+      <entry key="M10" value="27.38807239786714" />
+      <entry key="M15" value="37.21820657068096" />
+      <entry key="M30" value="58.25517765044835" />
+      <entry key="H1" value="77.85330774229989" />
+      <entry key="H2" value="91.58941637876202" />
+      <entry key="H4" value="99.77372813371824" />
+      <entry key="D1" value="107.38397994474418" />
+      <entry key="W1" value="108.76713929173098" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
@@ -28,15 +97,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/lamaa/Downloads/libraryapi/Exercise-Loop/src/Main.java",
     "to.speed.mode.migration.done": "true"
@@ -68,7 +143,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
+          <line>17</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
